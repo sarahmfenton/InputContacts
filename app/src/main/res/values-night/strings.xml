@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="inputEmergencyContactsStr">Input Emergency Contacts:</string>
+    <string name="emergencyContactNameLabelStr">Name:</string>
+    <string name="emergencyContactPhoneInputStr">Enter phone number:</string>
+    <string name="emergencyContactNameInputStr">Enter name:</string>
+    <string name="emergencyContactPhoneLabelStr">Phone:</string>
+    <string name="buttonEmergencyContactStr">ADD CONTACT</string>
+</resources>
